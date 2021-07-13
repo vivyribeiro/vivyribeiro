@@ -13,7 +13,6 @@
   <img align="center" alt="Vivy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vivy-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   
-  <img align="right" alt="vivy-Perfil" src="https://cdn.discordapp.com/avatars/789561401110691890/3e11118b975eb8657f76cb4e263fe6b8.png?size=128">
 </div>
   
   ##
@@ -24,6 +23,6 @@
   <a href = "mailto:vivy.saribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
-  ![Snake animation](https://github.com/vivyribeiro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vivyribeiro/output/github-contribution-grid-snake.svg)
  
 </div>
