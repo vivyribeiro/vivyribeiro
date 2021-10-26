@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Viviane Ribeiro
+## Oiii! Eu sou a Vivy, bem vindo(a) ao meu perfil!
 
  <div>
   <a href="https://github.com/vivyribeiro">
