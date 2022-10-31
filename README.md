@@ -20,9 +20,6 @@
 
 <br/>
 
-> ⌚ I'm 30 years old  
-> <small>Tenho 30 anos</small>
-
 > 🏠 I currently live in Valença/Bahia - Brazil  
 > <small>Atualmente moro em Valença/Bahia</small>
 
