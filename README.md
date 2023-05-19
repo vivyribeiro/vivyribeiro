@@ -2,7 +2,7 @@
 
 <small> Oi, eu sou a Vivy! Bem vindo(a) ao meu perfil!</small>
 
-<br/>
+<!-- <br/>
 <div >
   <a href="https://github.com/vivyribeiro" style="display: flex; gap: 32px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivyribeiro&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@
 </div>
 
 <br/>
-
+ -->
 ---
 
 ### About Me:
