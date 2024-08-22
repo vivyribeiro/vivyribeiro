@@ -65,7 +65,7 @@
 >
 > <small>Conecte-se comigo no Linkedin</small>
 >
-> <a href="https://www.linkedin.com/in/viviane-s-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+> <a href="https://www.linkedin.com/in/vivyribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br>
 
